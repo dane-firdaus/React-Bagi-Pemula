@@ -1,0 +1,13 @@
+catatan penting tatacara instalasi :
+
+1. pastikan anda memiliki node JS.
+
+2. download folder project lalu extract.
+
+3. buka cmd dan masuk ke direktori project.
+
+4. jalankan dengan perintah npm install untuk install.
+
+5. jalankan perintah npm run build untuk build project.
+
+6. jalankan perintah npm start untuk memulai project.
